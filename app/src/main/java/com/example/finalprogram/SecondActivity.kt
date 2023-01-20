@@ -16,7 +16,7 @@ class SecondActivity : AppCompatActivity() {
         userTextView.text = displayUser
 
         val actionBar = supportActionBar
-        actionBar!!.title = "My Second Activity"
+        actionBar!!.title = "Vet Appointments"
         actionBar.setDisplayHomeAsUpEnabled(true)
 
         // demonstrate scrolling
