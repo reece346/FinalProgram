@@ -1,0 +1,10 @@
+Two Activities:
+	MainActivity/Login Activity
+	SecondActivity
+Info transferred:
+	Username from textView is transferred from
+	Main activity to the Second Activity
+Recycler View:
+	rv is the recyclerView
+Scrolling:
+	9 fake data, allows scrolling on second activity
